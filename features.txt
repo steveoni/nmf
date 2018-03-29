@@ -1,0 +1,140 @@
+[u'citizenship', u'census', u'trump', u'question', u'administration', u'states']
+(4.2978359022887229, u'At Least Twelve States to Sue Trump Administration Over Census Citizenship Question - New York Times')
+
+(0.33523203682409847, u'At Least Twelve States to Sue Trump Administration Over Census Citizenship Question')
+
+(0.042590135517978515, u"Kim's next move: Reading the Korea chess game - BBC News")
+
+[u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+(4.0244140307147784, u'Trump Scores His First Revised Trade Deal, With South Korea - Bloomberg')
+
+(0.49200370210136241, u'Trump Secures Trade Deal With South Korea Ahead of Nuclear Talks')
+
+(0.30017227163049331, u'Nasty notes that spurred Air Force general\u20ac&trade;s lecture written by &acirc;\u20ac&tilde;victim&acirc;\u20ac&trade;')
+
+[u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+(2.8299451622811564, u'Myanmar parliament elects Suu Kyi loyalist as new president - Washington Post')
+
+(0.35674529725023807, u'Arrest of Catalan Leader Tests Spain, Separatists and E.U.')
+
+(0.31839979969906929, u"Nikki Haley berates Russia, UN colleagues over Syria: 'This should be a day of shame'")
+
+[u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+(2.4726883557867638, u'Mueller reportedly connected ex-Trump staffer to Russian operative ahead of election - New York Post')
+
+(0.71290124084992312, u'A Low-Profile Trump Travels to Virginia to Meet With Donors')
+
+(0.70792956261450701, u'At Least Twelve States to Sue Trump Administration Over Census Citizenship Question')
+
+[u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+(3.5005265666140359, u"Kim's next move: Reading the Korea chess game - BBC News")
+
+(0.71219411015525658, u'Kim Jong-un Met With Xi Jinping in Secret Beijing Visit')
+
+(0.20634891788130555, u'Contributing Op-Ed Writer: Is China\u2019s Version of Capitalism Winning?')
+
+[u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+(3.2920444592286717, u'California Faces Pushback From Towns on Sanctuary State Law - Wall Street Journal')
+
+(0.23237196739716756, u'Wall Street bonuses soar 17% to an average of $184,200')
+
+(0.23237196739716756, u"Wall Street bankers' bonuses have soared")
+
+[u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+(3.0398457472048324, u"Stephon Clark's brother disrupts council meeting to air complaints about Sacramento leaders - NBCNews.com")
+
+(0.80967186077314179, u'Hundreds at Sacramento City Hall Protest Police Killing of Stephon Clark')
+
+(0.30628892866451068, u'A Cyberattack Hobbles Atlanta, and Security Experts Shudder')
+
+[u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+(1.8790081337030611, u"Police: Maryland school shooter was killed by his own bullet, not the school resource officer's")
+
+(1.329598480731613, u'Girl critically wounded in Maryland school shooting dies')
+
+(1.090336339003789, u'Maryland governor: We need more than prayers')
+
+[u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+(2.2327827616170604, u"Is White House Counsel's Office looking into Kushner? The answer isn't clear")
+
+(1.1242133036302482, u'Trump Talks of Bringing Back Rob Porter, Aide Accused of Spousal Abuse')
+
+(0.58263268780721711, u'A Low-Profile Trump Travels to Virginia to Meet With Donors')
+
+[u'court', u'npr', u'center', u'justice', u'case', u'week']
+(2.7556776495002619, u"Extreme Partisan Gerrymandering: The Supreme Court's Play In 3 Acts - NPR")
+
+(0.42637202702334154, u'International Criminal Court Fast Facts')
+
+(0.26478987101661461, u"Germany must legally recognize 'third gender' from birth, top court rules")
+
+[u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+(2.8261327851414539, u"Why Apple is still a powerful contender in education, despite Google's gains - CNBC")
+
+(0.24618514631062915, u'Google loses Android battle and could owe Oracle billions')
+
+(0.24179298763231732, u'This RSS feed URL is deprecated')
+
+[u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+(2.4627325521819534, u'One in five Americans wants the Second Amendment to be repealed, national survey finds - The Denver Post')
+
+(0.32253540493459126, u'Mueller reportedly connected ex-Trump staffer to Russian operative ahead of election - New York Post')
+
+(0.30869835088938752, u'Op-Ed Contributor: John Paul Stevens: Repeal the Second Amendment')
+
+[u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+(2.8354463121609692, u"CNN Poll: Nearly 2/3 approve of Trump's plan to meet Kim Jong Un")
+
+(0.44164231242726532, u"North Korea warns of 'abyss of doom' if 'old lunatic' Trump remains president")
+
+(0.30622025142110237, u'Kim Jong-un Met With Xi Jinping in Secret Beijing Visit')
+
+[u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+(0.9085039430948062, u'US punishes Russia but Trump hedges bets on Putin')
+
+(0.90289953300048664, u"Nikki Haley berates Russia, UN colleagues over Syria: 'This should be a day of shame'")
+
+(0.82560880142810755, u'Russia warns of retaliation after at least 100 diplomats expelled worldwide')
+
+[u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+(1.1828087915462124, u'International Criminal Court Fast Facts')
+
+(1.1563507064281202, u'Pope Emeritus Benedict XVI Fast Facts')
+
+(1.0766602780187275, u'Nuclear Nations Fast Facts')
+
+[u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+(1.5789140409477271, u'Recovered Body Is Likely That of Missing Actress, Los Angeles Police Say')
+
+(0.90696098642051393, u'Arrest of Catalan Leader Tests Spain, Separatists and E.U.')
+
+(0.85344314344508487, u'Hundreds at Sacramento City Hall Protest Police Killing of Stephon Clark')
+
+[u'ed', u'op', u'contributor', u'china', u'second', u'today']
+(0.96799476441694632, u'Op-Ed Contributor: John Paul Stevens: Repeal the Second Amendment')
+
+(0.86551360595062332, u'Op-Ed Contributor: The Orphans of China\u2019s Economic Miracle')
+
+(0.78820939608825191, u'Op-Ed Contributor: I Tried to Befriend Nikolas Cruz. He Still Killed My Friends.')
+
+[u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+(2.2882477704344462, u'Myanmar parliament elects Suu Kyi loyalist as new president - Washington Post')
+
+(1.4062182813027113, u'Mueller reportedly connected ex-Trump staffer to Russian operative ahead of election - New York Post')
+
+(1.161403921878555, u'11 Movies You Need to Know at New Directors/New Films')
+
+[u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+(1.6429539298752329, u'States decry census citizenship question')
+
+(1.4615525160638008, u'At Least Twelve States to Sue Trump Administration Over Census Citizenship Question')
+
+(1.4103487647405051, u'If Census Asks About Citizenship, Some Already Have an Answer: No Comment')
+
+[u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+(1.3385593507464402, u"Opinion: How Vladimir Putin's arrogance handed Theresa May a diplomatic coup")
+
+(1.2111708355669581, u"Analysis: Putin's missteps over the Russian spy murder")
+
+(0.71426019058607704, u'Putin\u2019s Grim Reality: Public Fury Over Children\u2019s Deaths in Mall')
+

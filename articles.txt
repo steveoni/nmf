@@ -1,0 +1,765 @@
+Police: Maryland school shooter was killed by his own bullet, not the school resource officer's
+1.8790081337 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.256550844334 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0939769267685 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+
+There has been, on average, 1 school shooting every week this year
+0.925347165718 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.13190771188 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0395242548649 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+
+Girl critically wounded in Maryland school shooting dies
+1.32959848073 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0247009464045 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.02218791401 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+
+Maryland governor: We need more than prayers
+1.090336339 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+CNN Poll: Nearly 2/3 approve of Trump's plan to meet Kim Jong Un
+2.83544631216 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.294991937195 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.089885058751 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+States decry census citizenship question
+1.64295392988 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.117866995208 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.0468572051716 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+
+Once you check into Trump's world, you rarely check out
+0.522532009205 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.179427346436 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.159187962811 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Is White House Counsel's Office looking into Kushner? The answer isn't clear
+2.23278276162 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.226880406379 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.0310626172528 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+
+Will Warren Buffett swoop in to rescue GE again?
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Wall Street bonuses soar 17% to an average of $184,200
+0.232371967397 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Tesla stock falls after investigation announced on deadly crash
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+11 tax deductions to cut your 2017 tax bill
+0.0304326332326 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.0251304633808 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Celebration of life for GA Gov. Zell Miller
+0.0687312947601 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Doctors find 30-pound tumor inside man's belly
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Mayor: Church not up to sanitary code
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Family reunites with their dog that was stolen
+0.019719836596 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Woman walks across US for homeless veterans
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Man accused of assaulting baby in front of child
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Police warn residents of sporadic hawk attacks
+0.318100129051 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0769287870638 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Blue Bell combines 2 favorites in new flavor
+0.284059870775 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Dogs die after eating poisonous mushrooms
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Students save 90-year-old  from burning home
+0.166605415968 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+0.077906720839 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Rescue group releases rehabilitated raptors at lake
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Father dies saving daughter from pond
+0.0729565533542 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+House collapses with workers inside
+0.240450824019 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Water park co-owner arrested for slide death
+0.0314523895318 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Man returns to job after 23 yrs in jail
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Loyola-Chicago fans rally, Ramblers  to Final Four
+0.11541586435 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Woman dies after being struck by stray bullet
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Europe Edition: Russia, North Korea, Data: Your Wednesday Briefing
+0.513640357105 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.218758220539 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.0831210698398 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+
+At Least Twelve States to Sue Trump Administration Over Census Citizenship Question
+1.46155251606 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.707929562615 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.335232036824 [u'citizenship', u'census', u'trump', u'question', u'administration', u'states']
+
+Here’s Why an Accurate Census Count Is So Important
+0.478936109455 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.147973622905 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.0651777768715 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+
+If Census Asks About Citizenship, Some Already Have an Answer: No Comment
+1.41034876474 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.205692323985 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.164711722538 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+
+Trump Secures Trade Deal With South Korea Ahead of Nuclear Talks
+0.492003702101 [u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+0.0842686279005 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.0307611879857 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Kim Jong-un Met With Xi Jinping in Secret Beijing Visit
+0.712194110155 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+0.306220251421 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.102120779938 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+
+Peter Thiel Employee Helped Cambridge Analytica Before It Harvested Data
+0.269678910196 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.0844013846377 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0281533856453 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Trump, Famous for ‘You’re Fired,’ Offers V.A. Chief Only Awkward Silence
+0.544482164413 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.185509546006 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.0879394762488 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+A Low-Profile Trump Travels to Virginia to Meet With Donors
+0.71290124085 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.582632687807 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.207631600875 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Trump Talks of Bringing Back Rob Porter, Aide Accused of Spousal Abuse
+1.12421330363 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.0682598516666 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.0156041922865 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+
+A Cyberattack Hobbles Atlanta, and Security Experts Shudder
+0.306288928665 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+0.0773606272821 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0393273839885 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+
+Roseanne Conner Has Become a Trump Supporter. Just Like Her Creator.
+0.528849437787 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.18161587631 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.173646509705 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+
+How Should I Rewatch ‘Roseanne’?
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Op-Ed Columnist: How Mark Zuckerberg Can Save Facebook — and Us
+0.641612421821 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0318072438816 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Editorial: All the President’s Thugs
+0.279652670368 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.0144136064457 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.00430795852862 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+
+Editorial: The Catalonia Dispute Ensnares Germany
+0.146620275324 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.059290423002 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+0.0376679832511 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+
+Contributing Op-Ed Writer: Is China’s Version of Capitalism Winning?
+0.780530706413 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.374420683844 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.206348917881 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+
+Op-Ed Contributor: I Tried to Befriend Nikolas Cruz. He Still Killed My Friends.
+0.788209396088 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0426134309834 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Editorial: The Trump Administration Sabotages the Census
+0.554656278391 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.445868781058 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.0883444418116 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Op-Ed Contributor: Is This Dog Actually Happy?
+0.742321399896 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Opinion: Nine Reasons Not to Buy Time Magazine
+0.277562164829 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.23030981784 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.0603183320748 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Op-Ed Contributor: John Paul Stevens: Repeal the Second Amendment
+0.967994764417 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.308698350889 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+0.000896645234748 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+
+Op-Ed Contributor: The Orphans of China’s Economic Miracle
+0.865513605951 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0651438326931 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Scrutiny of Michigan State’s Role in Nassar Case Brings New Sex Charges
+0.287129257458 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.0375842685094 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Recovered Body Is Likely That of Missing Actress, Los Angeles Police Say
+1.57891404095 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.122879282156 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.112268227646 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Hundreds at Sacramento City Hall Protest Police Killing of Stephon Clark
+0.853443143445 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.809671860773 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+0.0858097255873 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+
+Baton Rouge Officers Will Not Be Charged in Alton Sterling’s Killing
+0.605700357185 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.118993909344 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.00588701860514 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+
+Facebook Vowed to End Discriminatory Housing Ads. Suit Says It Didn’t.
+0.0925659028879 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0124645033 [u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+0.0123655965178 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+
+Putin’s Grim Reality: Public Fury Over Children’s Deaths in Mall
+0.714260190586 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.318433204918 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.0508572636927 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+
+Arrest of Catalan Leader Tests Spain, Separatists and E.U.
+0.906960986421 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.35674529725 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.0574404993098 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Behind the Rise of China’s HNA: The Chairman’s Brother
+0.125979702112 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+0.10172583951 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0046100589988 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+
+Singapore Journal: Cosmetic Surgery for a Pet Fish? In Asia, This One Is King of the Tank
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Restaurant Review: Chez Ma Tante, Where Falafel and Kedgeree Live in Harmony
+0.0621451477342 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Fiction: A Novelist’s Exuberant Love Letter to a Mexican-American Clan
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Travel Tips: 5 Simple Tips for Getting Stellar Hotel Service
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Well : What Young Rats’ Workouts Could Tell Us About the Human Heart
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+What to Expect From a Home Inspection
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Field Notes: Money-Saving Tips for Wedding Guests
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+The Sweet Spot: How Do I Deal With My Anger Toward Men?
+0.123067796267 [u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Theater Director Held in Russia Finds an Audience in Berlin
+0.626457875311 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.161002970007 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.0422216919775 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+
+A Publicist and D.J. Who Nurtures Underrepresented Artists
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+11 Movies You Need to Know at New Directors/New Films
+1.16140392188 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.0175746002605 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0088029053477 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Lens: The Superfund Sites of Silicon Valley
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Baseball’s Unappreciated Power Duo
+0.106974210442 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.0193452627849 [u'citizenship', u'census', u'trump', u'question', u'administration', u'states']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Out There: Meet TESS, Seeker of Alien Worlds
+0.117850153417 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.11757935237 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.0531446131068 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+
+Why the Snow in Parts of Europe Was Orange
+0.451197516831 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+The Highs and Lows of Testosterone
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+In a Loving Foster Family, but Missing Home
+0.120687366938 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0703365222242 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0578839165497 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+
+This RSS feed URL is deprecated
+0.330652288447 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.241792987632 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.151920422272 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+
+Kim's next move: Reading the Korea chess game - BBC News
+3.50052656661 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+0.296265402731 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.113527172471 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+
+Mueller reportedly connected ex-Trump staffer to Russian operative ahead of election - New York Post
+2.47268835579 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+1.4062182813 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.37029048217 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+One in five Americans wants the Second Amendment to be repealed, national survey finds - The Denver Post
+2.46273255218 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+0.00305480184412 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Extreme Partisan Gerrymandering: The Supreme Court's Play In 3 Acts - NPR
+2.7556776495 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.02624747532 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.0252099395791 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+
+Stephon Clark's brother disrupts council meeting to air complaints about Sacramento leaders - NBCNews.com
+3.0398457472 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+0.159038534788 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.100628648227 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+
+Why Apple is still a powerful contender in education, despite Google's gains - CNBC
+2.82613278514 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.170726393171 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.010706896824 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+
+California Faces Pushback From Towns on Sanctuary State Law - Wall Street Journal
+3.29204445923 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.106428457666 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+0.0259824672054 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+
+Myanmar parliament elects Suu Kyi loyalist as new president - Washington Post
+2.82994516228 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+2.28824777043 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.103111994869 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+
+At Least Twelve States to Sue Trump Administration Over Census Citizenship Question - New York Times
+4.29783590229 [u'citizenship', u'census', u'trump', u'question', u'administration', u'states']
+0.212351740595 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.0520566249566 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Trump Scores His First Revised Trade Deal, With South Korea - Bloomberg
+4.02441403071 [u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+0.080503735516 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.0753538824128 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+
+North Korea warns of 'abyss of doom' if 'old lunatic' Trump remains president
+0.441642312427 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.195985315092 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.123717666986 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+
+Brazile says CNN€&trade;s Tapper betrayed her after debate flap
+0.172074411799 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.165256048745 [u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+0.014651145282 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Nasty notes that spurred Air Force general€&trade;s lecture written by &acirc;€&tilde;victim&acirc;€&trade;
+0.30017227163 [u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Woman killed €&tilde;sugar daddy&acirc;€&trade; when relationship soured: prosecutors
+0.148087094103 [u'trade', u'korea', u'deal', u'trump', u'nbsp', u'news']
+0.0487479296867 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0321920912244 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+
+Exclusive: Undercover teams record grisly remote Faroe Islands whale slaughter
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Wrestler had 15 drinks a day, slept with 10,000 women, documentary reveals
+0.0566095748966 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.0510949450408 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+What critter has been found hidden in Van Gogh painting?
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Germany must legally recognize 'third gender' from birth, top court rules
+0.264789871017 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0363193630273 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Lightning strike instantly kills two surfers
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+'Super mom' Sherri Papini filmed running to safety the morning she was found
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Ex-news anchor whose reporter girlfriend was killed on live TV wins election
+0.121972373037 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.064527444044 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+0.0499590333676 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+
+Tom Fitton: Mueller probe is 'fruit of the poison tree,' should be shut down
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Pence responds to attacks on prayer after Texas shooting
+0.0615427848019 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0361894612135 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+LiAngelo Ball, two UCLA players arrested in China for alleged shoplifting
+0.12593201964 [u'kim', u'china', u'korea', u'news', u'nbsp', u'north']
+0.104841939354 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0281196888249 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+
+Twitter apologizes for 'bisexual' technical glitch
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Author Gay Talese blasts Kevin Spacey accuser who 'ruined' actor's career
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+WATCH: Tucker rips calls for gun control after Texas shooting
+0.0960440356888 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.066322444099 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+0.0282113844993 [u'city', u'meeting', u'nbsp', u'residents', u'news', u'police']
+
+Teacher, 40, allegedly sent nude pics, lewd love letters to teen student
+0.0753907016097 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+0.0130177883814 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Bill de Blasio re-elected to second term as NYC mayor
+0.180973597533 [u'post', u'second', u'students', u'americans', u'gun', u'raquo']
+0.0720318318648 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Justice Department drops case against Code Pink protester who laughed at Jeff Sessions
+0.193586939224 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.107206748173 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0374255892668 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+
+Abby Patterson disappearance: $10K reward offered in missing woman case
+0.0675962630316 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0646123958577 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+REALITY CHECK: Patriot's Rob Gronkowski offers advice to younger NFL players
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+US-bound flights get tougher screening procedures for passengers
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Husband of Michigan teacher missing for months is found dead in possible suicide
+0.064819928193 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Arizona woman arrested in deadly wreck had 3-year-old daughter in car during crash
+0.0731877544859 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0510358406315 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0241879854758 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+
+'It' factor: California cops pose for viral photo inspired by horror film
+0.185405095133 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.0238496214914 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Tom Brady: I hope Kaepernick gets another chance in NFL
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Oklahoma police officers shot while serving a search warrant
+0.510820726864 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.041649867944 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0158212587057 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+
+'Hell on wheels': Five disabled New Yorkers file hundreds of lawsuits
+0.284059870775 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+University of Virginia to remove Confederate plaques, ban open flames - Which Confederate statues were removed? A running list
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Chevy brings back diesel
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Reinventing football helmets
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+'Cheers' fact shocks
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+JLaw's film anti-Christian?
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+From fat-shamed to billionaire
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Breastfeeding mom called out
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Where militaries window shop
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Star Wars: Should we care?
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Bette Davis' shocking betrayal
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+'View' hosts cause a stir
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+'Bounty' star vow to fight
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+3 arrested for 'rape table'
+0.0314523895318 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Gross &lsquo;fatberg&rsquo; clogs sewer
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+&lsquo;Sexualized&rsquo; for her wardrobe
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+US punishes Russia but Trump hedges bets on Putin
+0.908503943095 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.521456485721 [u'house', u'white', u'trump', u'secretary', u'tuesday', u'donald']
+0.501557729158 [u'trump', u'russian', u'york', u'post', u'president', u'tuesday']
+
+Analysis: Putin's missteps over the Russian spy murder
+1.21117083557 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.239896524141 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.0133221895638 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+
+Nikki Haley berates Russia, UN colleagues over Syria: 'This should be a day of shame'
+0.902899533 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.318399799699 [u'president', u'washington', u'times', u'government', u'nbsp', u'post']
+0.106107119839 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Russia warns of retaliation after at least 100 diplomats expelled worldwide
+0.825608801428 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.546972894519 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0678287636728 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Opinion: How Vladimir Putin's arrogance handed Theresa May a diplomatic coup
+1.33855935075 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0476340201324 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.0258599601341 [u'police', u'angeles', u'los', u'tuesday', u'officers', u'missing']
+
+Google loses Android battle and could owe Oracle billions
+0.246185146311 [u'google', u'nbsp', u'chicago', u'new', u'news', u'day']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Facebook has lost $80 billion in market value
+0.041472250398 [u'ed', u'op', u'contributor', u'china', u'second', u'today']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Wall Street bankers' bonuses have soared
+0.232371967397 [u'california', u'news', u'nbsp', u'street', u'wall', u'trump']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Sponsors slam Australian cricket team over cheating
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Mark Zuckerberg refuses to appear before UK lawmakers
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Ailing parents get one last family adventure
+0.019719836596 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Expensive trip, priceless memories
+0.0206442116635 [u'russia', u'russian', u'government', u'situation', u'day', u'tuesday']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+For 'The 5th Dementia' music is medicine
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Goodbye, old iPhone: This could be 40X better
+0.0222266884482 [u'school', u'maryland', u'week', u'high', u'shooting', u'killed']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Bitcoin up 30,000X -- here's your backdoor in
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+$19.9 trillion idea hidden in plain sight
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+0.0 [u'new', u'news', u'post', u'york', u'nbsp', u'articles']
+
+Pope Emeritus Benedict XVI Fast Facts
+1.15635070643 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+Joaquín "El Chapo" Guzmán Fast Facts
+0.441018497086 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+0.0 [u'citizenship', u'census', u'2020', u'states', u'question', u'administration']
+
+International Criminal Court Fast Facts
+1.18280879155 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.426372027023 [u'court', u'npr', u'center', u'justice', u'case', u'week']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
+Nuclear Nations Fast Facts
+1.07666027802 [u'fast', u'cnn', u'facts', u'life', u'court', u'china']
+0.00282941778985 [u'north', u'trump', u'korea', u'jong', u'kim', u'meet']
+0.0 [u'putin', u'russian', u'vladimir', u'spy', u'daughter', u'officers']
+
